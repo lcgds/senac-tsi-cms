@@ -1,1 +1,5 @@
 <?php
+
+// Meu primeiro plugin
+
+?>

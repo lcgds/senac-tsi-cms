@@ -2,8 +2,8 @@
 /*
 * Plugin Name: Meu Primeiro Plugin
 * Plugin URI: https://www.technerdpoint.blogspot.com/
-* Description: Plugin para quem gosta de gatos
-* Version: 0.0.1
+* Description: Plugin para testar hooks
+* Version: 0.0.2
 * Author: Luiz Carlos
 * Author URI: https://t.me/lcgds/
 * License: CC BY
